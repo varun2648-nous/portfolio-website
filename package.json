@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-website-app-service",
+  "version": "1.0.0",
+  "description": "Simple personal portfolio website for Varun Shivaram.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varun2648-nous/portfolio-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/varun2648-nous/portfolio-website/issues"
+  },
+  "homepage": "https://github.com/varun2648-nous/portfolio-website#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "vite": "^8.0.14"
+  }
+}

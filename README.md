@@ -1,19 +1,31 @@
 # Varun Shivaram Portfolio
 
-Simple personal portfolio website for Varun Shivaram.
+React portfolio website for Varun Shivaram with a space-and-AI themed interface.
 
-## Files
+## Stack
 
-- `index.html` - main page structure
-- `styles.css` - styling, layout, and animations
-- `script.js` - typewriter effect, mobile navigation, and space background animation
-- `assets/` - images and static assets
+- React
+- Vite
+- Custom CSS
 
-## Preview
+## Project Structure
 
-Open `index.html` in a browser, or run a small local server from this folder.
+- `src/App.jsx` - portfolio content and React components
+- `src/main.jsx` - React entry point
+- `src/styles.css` - theme, layout, and animations
+- `public/assets/img/` - static images
+
+## Local Development
+
+- `npm install`
+- `npm run dev`
+
+## Build
+
+- `npm run build`
 
 ## Notes
 
-- The design uses a light cosmic theme with animated background effects.
-- The content is based on Varun Shivaram's portfolio/resume details.
+- The content keeps the tone simple and grounded.
+- The site emphasizes MERN full-stack development, beginner cloud engineering, and agentic AI building.
+- The feedback form currently works as a client-side interaction and can be connected to a backend later.
